@@ -14,7 +14,7 @@ const Hero = () => {
           Software Developer Student
         </p>
         <p className="text-secondary-foreground max-w-xl mb-8 leading-relaxed">
-          CS student at Conestoga College building full-stack applications with 
+          CS student at building full-stack applications with 
           React, TypeScript, and AI. Currently crafting intelligent solutions 
           at GDSC Conestoga.
         </p>
