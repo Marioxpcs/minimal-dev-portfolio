@@ -1,10 +1,11 @@
 const skills = {
   Languages: ["TypeScript", "JavaScript", "Java", "Python", "SQL"],
-  Frontend: ["React.js", "React Native", "TailwindCSS", "Chakra UI"],
+  Frontend: ["React.js", "React Native", "Expo", "TailwindCSS"],
   Backend: ["Node.js", "Express.js", "FastAPI", "REST APIs"],
   Databases: ["MongoDB", "Firebase", "PostgreSQL", "MySQL"],
   "Cloud & DevOps": ["AWS Lambda", "S3", "RDS", "Docker", "Heroku"],
-  "AI/ML": ["OpenAI API", "AI Embeddings", "Vector Search", "Prompt Engineering"],
+  "AI/ML": ["OpenAI API", "AI Embeddings", "Vector Search"],
+  Tools: ["Git", "GitHub", "Figma"],
 };
 
 const Skills = () => {

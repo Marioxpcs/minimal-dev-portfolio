@@ -2,16 +2,16 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "Sneaker Finder",
+    title: "RideIQ",
     description:
-      "Intelligent API service integrating price tracking, store locators, and sale detection with AI embeddings for fast query results.",
-    tech: ["TypeScript", "React", "Node.js", "REST API", "Chakra UI"],
+      "Cross-platform mobile app (iOS & Android) comparing Uber and Lyft prices in real time, reducing manual price comparison time by ~80%. Features surge pricing trend analysis, Google Maps traffic integration for dynamic ETA prediction, and an ML regression model forecasting ride cost fluctuations with ~78% accuracy. Node.js backend with Redis caching reduced average API response time from ~900ms to ~150ms.",
+    tech: ["TypeScript", "React Native", "Expo", "Node.js", "Python", "FastAPI", "PostgreSQL"],
   },
   {
-    title: "ClassSense",
+    title: "SplitSnap",
     description:
-      "AI-powered student productivity app that analyzes course syllabi to generate daily class attendance priorities with risk scoring.",
-    tech: ["React Native", "TypeScript", "Firebase", "OpenAI API"],
+      "AI-powered expense splitting app with a two-stage OCR pipeline (Google Vision → Claude API), parsing receipt photos into structured line-item JSON with ~90% field extraction accuracy. Reduces manual expense entry from ~5 minutes to under 15 seconds per bill. Features a real-time group ledger with live balance tracking, per-item tagging, and Venmo/PayPal deeplink settlement with pre-filled amounts.",
+    tech: ["React Native", "Expo", "TypeScript", "Supabase", "Google Vision API", "Claude API"],
   },
 ];
 

@@ -20,15 +20,19 @@ const Experience = () => {
             <ul className="space-y-2 text-secondary-foreground">
               <li className="flex gap-2">
                 <span className="text-primary shrink-0">→</span>
-                <span>Designing and prototyping full-stack applications in student-led teams</span>
+                <span>Contributed to a full-stack web app for campus event discovery built with React, TypeScript, and Node.js, delivering 3 production-ready features across 2 sprint cycles</span>
               </li>
               <li className="flex gap-2">
                 <span className="text-primary shrink-0">→</span>
-                <span>Building UI components with React and TypeScript</span>
+                <span>Designed and implemented 5 reusable UI components in React adopted across 2 separate GDSC project teams</span>
               </li>
               <li className="flex gap-2">
                 <span className="text-primary shrink-0">→</span>
-                <span>Practicing Git workflows, code reviews, and cloud deployment</span>
+                <span>Led code review sessions for a team of 4, identifying and resolving 12+ issues related to API error handling and component state management</span>
+              </li>
+              <li className="flex gap-2">
+                <span className="text-primary shrink-0">→</span>
+                <span>Integrated a third-party REST API for real-time event data, reducing manual content updates for club organizers by approximately 70%</span>
               </li>
             </ul>
           </article>
