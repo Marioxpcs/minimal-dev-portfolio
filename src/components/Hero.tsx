@@ -14,9 +14,10 @@ const Hero = () => {
           Software Developer Student
         </p>
         <p className="text-secondary-foreground max-w-xl mb-8 leading-relaxed">
-          CS student at building full-stack applications with 
-          React, TypeScript, and AI. Currently crafting intelligent solutions 
-          at GDSC Conestoga.
+          CS student at Conestoga College building full-stack and AI-powered
+          applications with TypeScript, Python, and React. Currently freelancing
+          for Waterloo Region trades businesses and contributing to open-source
+          agentic frameworks.
         </p>
         <div className="flex gap-6">
           <a
